@@ -1,11 +1,11 @@
 #include<iostream>
-using namespace std;
+using namespace std;        //parameterized constructor
 
 class Area{
         public:
         double length;
         double height;
-        double result=0;
+       
 
         Area(double len , double hei){
             length = len;
