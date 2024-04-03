@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;   //DEFAULT CONSTRUCOTRR
+using namespace std;   //DEFAULT CONSTRUCOTRR2
 
 class cube{
     public:

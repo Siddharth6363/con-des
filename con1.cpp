@@ -5,7 +5,7 @@ class Wall{
     public:
     double length;
 
-    Wall(){       //DEFAULT CONSTRUCTOR
+    Wall(){       //DEFAULT CONSTRUCTOR1
         length=9.86;
         cout<<"Creating a wall";
         cout<<"Length of the wall is: "<<length;

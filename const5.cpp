@@ -1,7 +1,7 @@
 
 #include <iostream>
 using namespace std;
-class student {           //default constructor
+class student {           //default constructor3
 	int rno;
 	char name[50];
 	double fee;

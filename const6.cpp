@@ -4,7 +4,7 @@ using namespace std;       //cel to fahrenheit
 class Temp{
     public:
     double temp;
-        Temp(double t)        //parameterized constructors
+        Temp(double t)        //parameterized constructors 3
         {
                 temp=t;
         }

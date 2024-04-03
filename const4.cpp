@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;   //parameterized constructor
+using namespace std;   //parameterized constructor2
 
 class Si{
     public:
