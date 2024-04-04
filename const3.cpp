@@ -20,7 +20,7 @@ class Area{
 };
 
 int main()
-{    Area a1(10,5);
+{   Area a1(10,5);
     Area a2(3.5 , 6.2);
 
     cout<<"Area of a1="<<a1.calculateArea()<<'\n';
