@@ -9,8 +9,8 @@ class Point{
     public:
         Point(int x1 , int y1)   //NORMAL CONSTRUCTOR
         {
-            x = x1;
-            y = y1;
+            x = x1;             //A copy constructor is a member function that initializes an object 
+            y = y1;                                   //using another object of the same class.
         }
 
         Point(Point &p1)
